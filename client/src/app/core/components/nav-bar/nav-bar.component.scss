@@ -1,0 +1,8 @@
+.logo{
+    cursor: pointer;
+    width: 128px;
+
+    &:focus{
+        outline: none;
+    }
+}
